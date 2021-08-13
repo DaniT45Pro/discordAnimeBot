@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "discord.js": "^13.0.1",
+    "dotenv": "^10.0.0",
+    "mongodb": "^4.1.0",
+    "nan": "^2.15.0",
+    "nopt": "^5.0.0",
+    "robotjs": "^0.6.0"
+  },
+  "name": "discordbot",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main"
+  },
+  "keywords": [],
+  "author": "Daniel Atalaya",
+  "license": "ISC",
+  "description": ""
+}
